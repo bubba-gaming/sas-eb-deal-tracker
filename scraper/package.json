@@ -1,0 +1,11 @@
+{
+  "name": "sas-deals-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.48.0"
+  }
+}
