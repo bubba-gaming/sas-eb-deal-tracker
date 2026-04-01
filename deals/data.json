@@ -1,0 +1,7 @@
+{
+  "fetchedAt": "2026-04-01T00:00:00.000Z",
+  "source": "https://onlineshopping.flysas.com",
+  "totalDeals": 0,
+  "deals": [],
+  "_note": "This is placeholder data. Run the scraper workflow (Actions > Scrape SAS EuroBonus Deals > Run workflow) to populate with real data."
+}
