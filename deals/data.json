@@ -1,7 +1,263 @@
 {
-  "fetchedAt": "2026-04-01T00:00:00.000Z",
+  "fetchedAt": "2026-04-02T06:07:05.359Z",
   "source": "https://onlineshopping.flysas.com",
-  "totalDeals": 0,
-  "deals": [],
-  "_note": "This is placeholder data. Run the scraper workflow (Actions > Scrape SAS EuroBonus Deals > Run workflow) to populate with real data."
+  "totalDeals": 32,
+  "deals": [
+    {
+      "name": "About you",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "About youEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Acer",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AcerEarn 10 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "ActionKing.se",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "ActionKing.seEarn 50 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Adidas",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AdidasEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Adlibris",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AdlibrisEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "AEG",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AEGEarn 10 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Agoda",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AgodaEarn 15 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Akademibokhandeln",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AkademibokhandelnEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Albert",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AlbertEarn 500 pointsShop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Albrekts Guld",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Albrekts GuldEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Allente",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AllenteEarn 1 500 pointsShop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Amazon",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AmazonEarn 50 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Apoteket",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "ApoteketEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Asus",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AsusEarn 10 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Atletbutiken",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "AtletbutikenEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Australian Bodycare",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Australian BodycareEarn 100 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Baby V",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Baby VEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "BabySam",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BabySamEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Babyshop",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BabyshopEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Bagaren och Kocken",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Bagaren och KockenEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Bangerhead",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BangerheadEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Batteries-Online",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Batteries-OnlineEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Batteriexperten",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BatteriexpertenEarn 50 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Bazta",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BaztaEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Beautycos",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BeautycosEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Beijer Byggmaterial",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Beijer ByggmaterialEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Bestcanvas",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BestcanvasEarn 50 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "BetterFeast",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Extra pointsBetterFeastEarn 5 000 pointsShop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Billiga-tester.se",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Billiga-tester.seEarn 50 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Billigteknik",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "BilligteknikEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Björn Borg",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Björn BorgEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    },
+    {
+      "name": "Blue Tomato",
+      "bonusPoints": "",
+      "memberPoints": "",
+      "pointsText": "Blue TomatoEarn 25 pointsper 100 kr.Shop now",
+      "category": "",
+      "url": ""
+    }
+  ]
 }
